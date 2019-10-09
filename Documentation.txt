@@ -1,0 +1,16 @@
+steps to use the program:
+-add the memory holes first by setting the:
+	=hole size
+	=starting address (not displayed)
+program will pop an error message to the user if hole size/starting address is not an integer
+-add processes by setting their size;
+-press the Allocate Process then choose the algorithm (first fit/ best fit/ worst fit) to use in allocation
+NOTE:
+the output displays every process allocated in each hole on the console( Not in a GUI page)
+
+NOTES:
+-the .exe and .jar are located in the "dist" folder
+-class "hole" contains an arraylist to save allocated processes in the current hole
+-class memory contains the allocation algorithms
+-holes' addresses overlapping was not fixed
+
