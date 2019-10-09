@@ -1,3 +1,6 @@
+Name: Mohamed Saed
+ID:2017/07171
+
 steps to use the program:
 -add the memory holes first by setting the:
 	=hole size
